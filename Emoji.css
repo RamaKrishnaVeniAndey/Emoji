@@ -1,0 +1,19 @@
+#background{
+    background-image: url(https://img.freepik.com/free-photo/world-smile-day-emojis_23-2149024487.jpg?w=1060&t=st=1691238007~exp=1691238607~hmac=fd90271615a77d999ba0782693b7ee839432d44b3db4fc26443df360b93940a7);
+    width: 1900px;
+    height:700px;
+    background-repeat: no-repeat;
+    background-size: 1300px 900px;
+    position: fixed;
+}
+#emoji{
+    margin-left: 500px;
+}
+input{
+    margin-left: 550px;
+    border: 1px solid black;
+}
+#content{
+    margin-left: 530px;
+   
+}
